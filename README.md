@@ -1,2 +1,2 @@
-# Paranthesis-based-String-repeation-problem
+# Paranthesis-based problems
 Headweight problem asked in Zoho interview 
